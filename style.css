@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+}
+h2{
+    color: black;
+    text-align: center;
+text-size-adjust: 100px;
+}
+p{
+    color: black;
+}
+h3{
+    color: black;
+}
+h4{
+    color: black;
+}
+#div1{
+    background-color: rgb(82, 162, 189);
+    height: 50px;
+   text-align: center;
+}
